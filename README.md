@@ -1,2 +1,3 @@
 # linaos
-Lina's Fedora Silverblue image based on uBlue
+
+This is a personal image of Fedora Silverblue based on uBlue.

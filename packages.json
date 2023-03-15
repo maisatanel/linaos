@@ -1,0 +1,30 @@
+{
+    "all": {
+        "include": {
+            "all": [
+            ]         
+        },
+        "exclude": {
+            "all": [
+                "firefox",
+                "firefox-langpacks"
+            ]
+        }
+    },
+    "37": {
+        "include": {
+            "all": []
+        },
+        "exclude": {
+            "all": []
+        }
+    },
+    "38": {
+        "include": {
+            "all": []
+        },
+        "exclude": {
+            "all": []
+        }
+    }
+}
