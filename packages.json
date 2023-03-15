@@ -2,6 +2,16 @@
     "all": {
         "include": {
             "all": [
+            	"f26-backgrounds-animated",
+            	"gnome-shell-extension-blur-my-shell",
+            	"gnome-shell-extension-gsconnect",
+            	"nautilus-gsconnect",
+            	"virt-install",
+            	"libvirt-daemon-config-network",
+            	"libvirt-daemon-kvm",
+            	"qemu-kvm",
+            	"virt-manager",
+            	"virt-viewer"
             ]         
         },
         "exclude": {
